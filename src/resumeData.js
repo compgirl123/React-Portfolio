@@ -13,7 +13,7 @@ let resumeData = {
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/compgirl123",
           "className":"fa fa-github"
         },
         {
@@ -22,31 +22,31 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently a Final Year Engineernig Student at Concordia University and pursuing my B.Eng in Software Engineering from here. I'm currently employed as a Data Analyst at Kids Code Jeunesse. I am a Data Analyst and Full Stack Web Developer who has experience with Data manipulation, website creation and machine learning and Ai Techniques. I want to dig deeper into the Business World and hopefully become an Software Developer Team Manager one day and I hope to pursue my Masters of Business Administration soon. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "address":"Montreal, Canada",
+    "website":"https://claudiafeochari.com",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
+        "UniversityName":"Concordia University",
+        "specialization":"Software Engineering",
+        "MonthOfPassing":"June",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "Achievements":"Bachelor of Engineering, Institute for Cooperative Education"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Marianopolis College",
+        "specialization":"Pure and Applied Sciences",
+        "MonthOfPassing":"June",
+        "YearOfPassing":"2015",
+        "Achievements":"Python Programming Class"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
+        "CompanyName":"Kids Code Jeunesse",
+        "specialization":"Data Research Assistant",
+        "MonthOfLeaving":"Present Day",
+        "YearOfLeaving":"2020",
         "Achievements":"Some Achievements"
       },
       {

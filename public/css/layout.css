@@ -207,9 +207,8 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
+   width: 220px;
+   height: 250px;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
@@ -318,7 +317,7 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #F06000;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
