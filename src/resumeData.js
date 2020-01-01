@@ -15,11 +15,6 @@ let resumeData = {
           "name":"github",
           "url":"https://github.com/compgirl123",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
       ],
     "aboutme":"I am currently a Final Year Engineernig Student at Concordia University and pursuing my B.Eng in Software Engineering from here. I'm currently employed as a Data Analyst at Kids Code Jeunesse. I am a Data Analyst and Full Stack Web Developer who has experience with Data manipulation, website creation and machine learning and Ai Techniques. I want to dig deeper into the Business World and hopefully become an Software Developer Team Manager one day and I hope to pursue my Masters of Business Administration soon. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
@@ -71,7 +66,7 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
+        "name":"ConJi",
         "description":"mobileapp",
         "imgurl":"images/portfolio/phone.jpg"
       },
