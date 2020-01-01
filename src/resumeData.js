@@ -67,8 +67,8 @@ let resumeData = {
     "portfolio":[
       {
         "name":"ConJi",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "description":"Web App For COMP 353 Databases Class",
+        "imgurl":"images/portfolio/conji.png"
       },
       {
         "name":"project2",
